@@ -190,7 +190,7 @@ h2{font-size:clamp(54px,7vw,98px)}
   width:100%;height:100%;object-fit:cover;
   transition:transform .5s ease;
 }
-.athlete-card-main img{object-position:center 22%}
+.athlete-card-main img{object-position:center 30%}
 .athlete-card:nth-child(2) img{object-position:center 25%}
 .athlete-card:nth-child(3) img{object-position:center 18%}
 .athlete-card:hover img{transform:scale(1.025)}
