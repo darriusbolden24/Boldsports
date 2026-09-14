@@ -207,10 +207,6 @@ h2{font-size:clamp(54px,7vw,98px)}
 .athlete-info h3{
   margin-top:7px;font-size:28px;
 }
-.Founder.png {max-width: 200px;margin: 0 auto;}
-
-.Founder.png img {width: 80%; height: auto;display: block;}
-
 .quote-band{
   border-top:1px solid var(--line);border-bottom:1px solid var(--line);
   padding:26px 0;
