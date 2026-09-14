@@ -198,6 +198,8 @@ h2{font-size:clamp(54px,7vw,98px)}
   content:"";position:absolute;inset:0;
   background:linear-gradient(0deg,rgba(5,5,5,.82),transparent 55%);
 }
+
+.Founder.png{width:80%;height:80%}
 .athlete-info{
   position:absolute;z-index:2;left:24px;right:24px;bottom:22px;
 }
