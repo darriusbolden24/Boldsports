@@ -132,7 +132,7 @@ h2{font-size:clamp(54px,7vw,98px)}
 .founder-image{
   position:absolute;inset:0;
   width:60%;height:60%;
-  object-fit:cover;
+  object-fit:contain;
   object-position:center 32%;
 }
 .feature-image img{
