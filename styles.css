@@ -129,6 +129,12 @@ h2{font-size:clamp(54px,7vw,98px)}
   height:78vh;
   overflow:hidden;
 }
+.founder-image{
+  position:absolute;inset:0;
+  width:60%;height:60%;
+  object-fit:cover;
+  object-position:center 32%;
+}
 .feature-image img{
   width:100%;height:100%;
   object-fit:cover;
